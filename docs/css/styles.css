@@ -182,7 +182,7 @@
       }
       h5{
 
-        padding-left: 100px;
+        
         padding-top: 30px;
       }
 
@@ -221,16 +221,13 @@
 
   font-family: roboto,sans-serif;
   font-size: 17px;
-  padding-left: 100px;
+  
 }
-#hob{
 
-  padding-left: 100px;
-}
 #sit{
 
   font-family: roboto,sans-serif;
-  padding-left: 100px
+  
 
 }
 #emai{
@@ -374,10 +371,7 @@ img.hover-shadow {
   box-sizing: border-box;
 }
 
-body {
-  margin: 0;
-  font-family: Arial;
-}
+
 
 .header {
   text-align: center;
